@@ -4,7 +4,7 @@
 
 # Aditya Bhowmik
 
-**Designing and building things — one commit at a time.**
+**Designing and building things ,one commit at a time.**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+the+making;Learning+Python+%7C+Java+%7C+JavaScript;Building+with+React+%26+MongoDB;I+like+to+design+and+build+things.)](https://git.io/typing-svg)
 
