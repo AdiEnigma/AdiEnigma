@@ -69,16 +69,8 @@ currently: Learning and shipping projects
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdiEnigma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiEnigma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdiEnigma&theme=synthwave&hide_border=true&card_width=649&ring=EB3473&fire=6AEBA1)](https://git.io/streak-stats)</div>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdiEnigma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=7d8590&dates=7d8590)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
