@@ -6,7 +6,7 @@
 
 **Designing and building things ,one commit at a time.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+the+making;Learning+Python+%7C+Java+%7C+JavaScript;Building+with+React+%26+MongoDB;I+like+to+design+and+build+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning+Full-Stack;Learning+Python+%7C+Java+%7C+JavaScript;Building+with+React+%26+MongoDB;I+like+to+design+and+build+things;Learning+Backend+Development;ML+and+AI+Engineer.)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/AdiEnigma?label=Follow&style=social)](https://github.com/AdiEnigma)
 [![Profile views](https://komarev.com/ghpvc/?username=AdiEnigma&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/AdiEnigma)
