@@ -17,10 +17,19 @@
 
 ## About Me
 
-- Currently learning **Python · Java · JavaScript · TypeScript · React · MongoDB**
+- Currently learning **Python · Java · JavaScript · TypeScript · React · MongoDB · Pytorch · Tensorflow**
 - Interested in the intersection of clean design and functional code
 - I enjoy building things from scratch — from concept to deployment
 - Always exploring, always shipping
+```yaml
+name:      Aditya Bhowmik
+alias:     AdiEnigma
+focus:     Full-Stack Development · Backend Development · ML Engieering
+interests: [Design, Building, Problem Solving]
+currently: Learning and shipping projects
+```
+
+---
 
 ---
 
