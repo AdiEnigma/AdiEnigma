@@ -33,7 +33,7 @@ currently: Learning and shipping projects
 
 ---
 
-## Tech Stack
+## Technologies
 
 **Languages**
 
