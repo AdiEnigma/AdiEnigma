@@ -31,8 +31,6 @@ currently: Learning and shipping projects
 
 ---
 
----
-
 ## Technologies
 
 **Languages**
