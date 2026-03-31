@@ -19,7 +19,7 @@
 
 - Currently learning **Python · Java · JavaScript · TypeScript · React · MongoDB · Pytorch · Tensorflow**
 - Interested in the intersection of clean design and functional code
-- I enjoy building things from scratch — from concept to deployment
+- I enjoy building things from scratch 
 - Always exploring, always shipping
 ```yaml
 name:      Aditya Bhowmik
